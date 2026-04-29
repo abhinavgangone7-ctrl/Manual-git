@@ -1,4 +1,5 @@
 # Manual-git
 This is my first manual github repo
 <br>
-Author: Abhinav Gangone
+Author: AbhinavGangone
+Sub-Author :Himanshi Rawani
